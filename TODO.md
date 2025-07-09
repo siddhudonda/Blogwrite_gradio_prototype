@@ -8,7 +8,7 @@ Build a **full-stack blog generation platform** where users can:
 - Deploy it as a real website with authentication, blog saving, and hosting.
 
 ---              
-
+                           
 ## 🔧 Backend (FastAPI / Flask)
 - [ ] **Modularize Logic**: Move blog generation & image fetching into separate files (e.g., `utils.py`, `services.py`).
 - [ ] **Convert Gradio Logic to API Endpoints**:
