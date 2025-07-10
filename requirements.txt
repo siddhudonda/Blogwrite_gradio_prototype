@@ -2,3 +2,4 @@ gradio
 google-generativeai
 serpapi
 python-dotenv
+          
